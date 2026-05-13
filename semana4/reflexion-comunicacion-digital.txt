@@ -1,12 +1,14 @@
 Reflexión sobre comunicación digital responsable – Módulo 2 Semana 1 Día 1
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante:Fernando Calderon
+Fecha:12 05 2026
+Nombre de la rama:Fernando_Calderon
 
 Escribe una reflexión de 6 a 8 líneas respondiendo:
 
-¿Por qué una comunidad necesita herramientas digitales que permitan publicar información clara, recibir propuestas y responder con responsabilidad?
+¿Por qué una comunidad necesita herramientas digitales que
+permitan publicar información clara, recibir propuestas y responder
+con responsabilidad?
 
 En tu respuesta menciona al menos dos de estas ideas:
 
@@ -19,3 +21,12 @@ En tu respuesta menciona al menos dos de estas ideas:
 - transparencia
 
 Respuesta:
+Una comunidad necesita herramientas digitales claras porque
+ayudan a mejorar la participación ciudadana y la comunicación
+entre las personas. Publicar información con lenguaje claro evita
+confusiones y ayuda en la prevención de desinformación, además
+recibir propuestas permite que todos puedan aportar ideas para
+mejorar la comunidad. Responder con responsabilidad fortalece 
+la confianza comunitaria y promueve una mejor convivencia digital,
+también ayuda a construir una cultura de paz basada en el respeto
+y la transparencia
